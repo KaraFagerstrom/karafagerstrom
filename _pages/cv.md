@@ -11,35 +11,18 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D Candidate in Mathematics, University of Nebraska-Lincoln, Advised by Dr. Alexandra Seceleanu, Started 2022 
+* M.S. in Mathematics, University of Nebraska-Lincoln, 2024
+* A.B in Mathematics, Bryn Mawr College, 2022
 
-Work experience
+Papers
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2021:  [Probability Distributions for Elliptic Curves in the CGL Hash Function](https://scholar.rose-hulman.edu/cgi/viewcontent.cgi?article=1177&context=math_mstr)
+  * Rose-Hulman Mathematical Sciences Technical Report Serie
+  * (with D. Bhatia,
+M. Watson)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
